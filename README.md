@@ -1,4 +1,3 @@
-#Read Me
 
 # 💫 About Me:
 🔭 I’m currently working on C++ , C , HTML , CSS , JAVASCRIPT.<br>👯 I’m looking to collaborate on Beginner Friendly Projects.<br>🤝 I’m looking for help with MERN Stack.<br>🌱 I’m currently learning MERN Stack.<br>
