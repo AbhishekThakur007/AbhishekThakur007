@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s)
 <h1 align="center">Hi 👋, I'm Abhishek Thakur</h1>
 <h3 align="center">🚀 Turning ideas into impactful code | 🌟 Lifelong learner & innovator</h3>
 
