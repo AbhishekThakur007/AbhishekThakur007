@@ -2,12 +2,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Thakur</h1>
 <h3 align="center">🚀 Turning ideas into impactful code | 🌟 Lifelong learner & innovator</h3>
 
+
 <img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1xNWZrNWFlOTZicnBvc3hqNHhmMGdod2hqbjMyM3gzazhqcGhhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp">
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekthakur007&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekthakur007" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekthakur007" alt="abhishekthakur007" /></a> </p>
 
@@ -42,3 +43,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekthakur007&show_icons=true&locale=en" alt="abhishekthakur007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekthakur007&" alt="abhishekthakur007" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekthakur007&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekthakur007" /> </p>
