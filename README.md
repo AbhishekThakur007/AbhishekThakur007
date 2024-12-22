@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/wLNuW1tCKRiPmDV5Y4">
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekthakur007&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekthakur007" /> </p>
