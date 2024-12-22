@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fdevelopers.giphy.com%2Fdocs%2F&psig=AOvVaw2CnNzUT_1ObottB7BD7Hgt&ust=1734950895627000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCrkfyZu4oDFQAAAAAdAAAAABAO)]
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 <h1 align="center">Hi 👋, I'm Abhishek Thakur</h1>
 <h3 align="center">🚀 Turning ideas into impactful code | 🌟 Lifelong learner & innovator</h3>
 
