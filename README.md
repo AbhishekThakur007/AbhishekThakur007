@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s)
+![MasterHead](https://camo.githubusercontent.com/b040f1f6973d3fb9aff55b177a42020e10c5639b783fd5e2eb7bcec6c145a387/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a6b472d3942514979556d384d626c705a2e706e67)
 <h1 align="center">Hi 👋, I'm Abhishek Thakur</h1>
 <h3 align="center">🚀 Turning ideas into impactful code | 🌟 Lifelong learner & innovator</h3>
 
