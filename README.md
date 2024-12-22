@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Thakur</h1>
 <h3 align="center">🚀 Turning ideas into impactful code | 🌟 Lifelong learner & innovator</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/wLNuW1tCKRiPmDV5Y4">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4" width="480" height="396" style="" frameBorder="0" class="giphy-embed" allowFullScreen><a href="https://giphy.com/gifs/wLNuW1tCKRiPmDV5Y4">via GIPHY</a>
 
 
 
