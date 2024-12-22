@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekthakur007&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekthakur007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekthakur007" alt="abhishekthakur007" /></a> </p>
+<p align="left"> <a href="https://camo.githubusercontent.com/c883b408ded88fe4af163904a9a27aceb7ec91520f4ea10e4cd374da745fbbfa/68747470733a2f2f617765736f6d652d6769746875622d73746174732e617a75726577656273697465732e6e65742f757365722d73746174732f6272756e6f627269746f6465763f7468656d653d7675652d6461726b"><img src="https://github-profile-trophy.vercel.app/?username=abhishekthakur007" alt="abhishekthakur007" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack Projects**
 
