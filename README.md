@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React.js, AI and ML**
 
-- 📫 How to reach me **abhishekthakur_01@yahoo.com**
+- 📫 How to reach me **abhishekthakur9716700@gmail.com**
 
 - ⚡ Fun fact **I’m a tech enthusiast who believes coffee and curiosity are the perfect debugging duo! ☕💻**
 
