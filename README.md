@@ -1,45 +1,81 @@
-![MasterHead](https://camo.githubusercontent.com/b040f1f6973d3fb9aff55b177a42020e10c5639b783fd5e2eb7bcec6c145a387/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a6b472d3942514979556d384d626c705a2e706e67)
-<h1 align="center">Hi 👋, I'm Abhishek Thakur</h1>
-<h3 align="center">🚀 Turning ideas into impactful code | 🌟 Lifelong learner & innovator</h3>
-
-
-<img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1xNWZrNWFlOTZicnBvc3hqNHhmMGdod2hqbjMyM3gzazhqcGhhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp">
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekthakur007" alt="abhishekthakur007" /></a> </p>
-
-- 🔭 I’m currently working on **MERN Stack Projects**
-
-- 🌱 I’m currently learning **C++ , C , HTML , CSS , JAVASCRIPT,MERN**
-
-- 👯 I’m looking to collaborate on **AI and ML Projects**
-
-- 🤝 I’m looking for help with **Android Development**
-
-- 💬 Ask me about **React.js, AI and ML**
-
-- 📫 How to reach me **abhishekthakur_01@yahoo.com**
-
-- ⚡ Fun fact **I’m a tech enthusiast who believes coffee and curiosity are the perfect debugging duo! ☕💻**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-thakur-876a89263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-thakur-876a89263/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/abhishekthakur96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abhishekthakur96" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/abhishekthakur9716700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/abhishekthakur9716700" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/abhishekthakur_9716700/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abhishekthakur_9716700/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/abhishekthakur2022ca007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abhishekthakur2022ca007/" height="30" width="40" /></a>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://camo.githubusercontent.com/b040f1f6973d3fb9aff55b177a42020e10c5639b783fd5e2eb7bcec6c145a387/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a31343033" alt="Banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Abhishek Thakur</h1>
+<h3 align="center">🚀 Turning Ideas into Impactful Code | 🌱 Lifelong Learner | 💡 Innovator</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekthakur007&show_icons=true&locale=en&layout=compact" alt="abhishekthakur007" /></p>
+<!-- Animated GIF -->
+<p align="center">
+  <img src="https://camo.githubusercontent.com/9e64394fc638feb85dc0b17e20403f0693c7d6492761c9ebcb9d6771b8fac47d/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d4731784e575a724e57466c4f545a69636e4276633368714e48686d4d47646f64326871626a4d794d33677a617a68716347686864435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f774c4e75573174434b5269506d44563559342f67697068792e77656270" alt="Coding Animation" width="400"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekthakur007&show_icons=true&locale=en" alt="abhishekthakur007" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekthakur007&" alt="abhishekthakur007" /></p>
+## 🧑‍💻 About Me
 
+- 🔭 I’m currently working on **MERN Stack Projects**
+- 🌱 Learning **C++, C, HTML, CSS, JavaScript, MERN**
+- 🤝 Looking to collaborate on **AI and ML Projects**
+- 💬 Ask me about **React.js, AI, and ML**
+- 📫 Reach me at: **abhishekthakur_01@yahoo.com**
+- ⚡ Fun fact: *Coffee and curiosity are my favorite debugging tools!* ☕💡
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekthakur007&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekthakur007" /> </p>
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-thakur-876a89263/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/abhishekthakur96" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/abhishekthakur9716700" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces" width="40" />
+  </a>
+  <a href="https://leetcode.com/abhishekthakur_9716700/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/abhishekthakur2022ca007/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <!-- Add other tech icons as desired -->
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekThakur007" alt="Trophies" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekThakur007&show_icons=true&locale=en" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekThakur007" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekThakur007&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhishekThakur007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
